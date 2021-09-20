@@ -1,2 +1,2 @@
 # PetParty
-Adocão pet
+Adoção pet
